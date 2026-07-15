@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Anitha Kambala
 
-<!--
-**Anitha-Kambala/Anitha-Kambala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Graduate in Artificial Intelligence & Data Science
 
-Here are some ideas to get you started:
+💻 Python Full Stack Developer Trainee
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Interested in AI, Machine Learning, Data Analysis, and Web Development
+
+## Skills
+- Python
+- Django
+- Flask
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+## Projects
+- 🩺 Diabetes Prediction using Machine Learning
+- 💰 BudgetNest – Smart Family Budget Management System
+- 👟 CNN-Based Nike vs Adidas Image Classification
+- 🔐 Client-Based Cryptographic Processing of Text Using Flask-Based Interface
+
+## Currently Learning
+- Python Full Stack Development
+- Django
+- Machine Learning
+
+## Connect with Me
+- LinkedIn: https://linkedin.com/in/kambalaanitha
+- Email: kambalaanitha@gmail.com
