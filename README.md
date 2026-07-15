@@ -22,7 +22,7 @@
 - 👟 CNN-Based Nike vs Adidas Image Classification
 - 🔐 Client-Based Cryptographic Processing of Text Using Flask-Based Interface
 
-## Currently Learning
+## Strong interest in
 - Python Full Stack Development
 - Django
 - Machine Learning
